@@ -11,6 +11,7 @@ def find_max_value(array)
     else
       
     end
+    return_value
   end
   return_value
 end
