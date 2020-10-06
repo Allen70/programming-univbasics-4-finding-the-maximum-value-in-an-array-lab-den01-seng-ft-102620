@@ -15,4 +15,5 @@ def find_max_value(array)
   end
   return_value
 end
+return_value
 end
