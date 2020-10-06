@@ -9,11 +9,8 @@ def find_max_value(array)
     else if (return_value < index)
       return_value = index  
     else
-   
     end
-  
   end
-
 end
 return_value
 end
