@@ -6,7 +6,7 @@ def find_max_value(array)
     counter += 1
     if  index == nil
       return_value
-    else if return_value < index
+    else if (return_value < index)
       return_value = index  
     else
       
